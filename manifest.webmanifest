@@ -1,11 +1,11 @@
 {
-  "name": "PDLUP Pro — Padel Matchmaker",
-  "short_name": "PDLUP Pro",
-  "description": "Aplikasi Padel Matchmaker premium dengan 8 format turnamen, klasemen otomatis, dan sinkronisasi skor live.",
+  "name": "Mambu Padel Pro — Padel Matchmaker",
+  "short_name": "Mambu Padel Pro",
+  "description": "Aplikasi Padel Matchmaker premium bertema Turquoise dengan 8 format turnamen, klasemen otomatis, dan sinkronisasi skor live.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#2563eb",
+  "background_color": "#042f2e",
+  "theme_color": "#0d9488",
   "orientation": "portrait-primary",
   "icons": [
     {
