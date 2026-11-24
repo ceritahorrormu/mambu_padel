@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mambu-padel-pro-v3';
+const CACHE_NAME = 'mambu-padel-pro-v4';
 const PRECACHE_URLS = [
   './',
   './index.html',
